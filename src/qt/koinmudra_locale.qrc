@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/koinmudra_bg.qm</file>
+        <file alias="ca">locale/koinmudra_ca.qm</file>
+        <file alias="cs">locale/koinmudra_cs.qm</file>
+        <file alias="da">locale/koinmudra_da.qm</file>
+        <file alias="de">locale/koinmudra_de.qm</file>
+        <file alias="en">locale/koinmudra_en.qm</file>
+        <file alias="en_US">locale/koinmudra_en_US.qm</file>
+        <file alias="es">locale/koinmudra_es.qm</file>
+        <file alias="fi">locale/koinmudra_fi.qm</file>
+        <file alias="fr_FR">locale/koinmudra_fr_FR.qm</file>
+        <file alias="it">locale/koinmudra_it.qm</file>
+        <file alias="ja">locale/koinmudra_ja.qm</file>
+        <file alias="ko_KR">locale/koinmudra_ko_KR.qm</file>
+        <file alias="nl">locale/koinmudra_nl.qm</file>
+        <file alias="pl">locale/koinmudra_pl.qm</file>
+        <file alias="pt">locale/koinmudra_pt.qm</file>
+        <file alias="pt_BR">locale/koinmudra_pt_BR.qm</file>
+        <file alias="ro_RO">locale/koinmudra_ro_RO.qm</file>
+        <file alias="ru">locale/koinmudra_ru.qm</file>
+        <file alias="sk">locale/koinmudra_sk.qm</file>
+        <file alias="sv">locale/koinmudra_sv.qm</file>
+        <file alias="tr">locale/koinmudra_tr.qm</file>
+        <file alias="uk">locale/koinmudra_uk.qm</file>
+        <file alias="zh_CN">locale/koinmudra_zh_CN.qm</file>
+        <file alias="zh_TW">locale/koinmudra_zh_TW.qm</file>
+    </qresource>
+</RCC>

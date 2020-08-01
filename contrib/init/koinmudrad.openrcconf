@@ -1,0 +1,26 @@
+# /etc/conf.d/koinmudrad: config file for /etc/init.d/koinmudrad
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/koinmudra/koinmudra.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/koinmudrad"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/koinmudrad.pid"
+
+# Where to write koinmudrad data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/koinmudrad"
+
+# User and group to own koinmudrad process
+#BITCOIND_USER="koinmudra"
+#BITCOIND_GROUP="koinmudra"
+
+# Path to koinmudrad executable
+#BITCOIND_BIN="/usr/bin/koinmudrad"
+
+# Nice value to run koinmudrad under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
