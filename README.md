@@ -7,7 +7,9 @@ Coin Name | Koinmudra
 Ticker | KMI
 Block time | 1 minute
 Maximum supply | 20,000,000 (20 million) KMI
-Pre-mine | 2,000,000 (2 million) KMI 10% of the supply
+Pre-mine | No Premine
+Pow Phase | Block 1 -5000 (to secure the KMI Blockchain)
+Hybrid Pos/MN Phase | From 5001
 Consensus mechanism | Proof-of-Stake
 Algorithm | Quark
 Collateral | 5,000 KMI
@@ -19,9 +21,8 @@ RPC Port | 40008
 
 From | To | Rewards | Masternode | Staker | Treasury
 ---: | ---: | ---: | ---: | ---: | ---:
-1         | 1         | 2,000,000 | 0%  | 0%  | 0%
-2         | 2,000     | 0.00      | 0%  | 0%  | 0%
-2,001     | 50,000    | 5.00      | 60% | 35% | 5%
+1         | 5,000     | 500       | 0%  | 0%  | 0%
+5,001     | 50,000    | 5.00      | 60% | 35% | 5%
 50,001    | 100,000   | 4.75      | 62% | 33% | 5%
 100,001   | 200,000   | 4.50      | 64% | 31% | 5%
 200,001   | 300,000   | 4.25      | 66% | 29% | 5%

@@ -121,7 +121,7 @@ public:
         nMaxMoneyOut                   = 20000000 * COIN; // 20 million max supply
 
         /** Height or Time Based Activations **/
-        nLastPOWBlock                  = 2000;
+        nLastPOWBlock                  = 5000;
         nModifierUpdateBlock           = 1;
 
 /*
