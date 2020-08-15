@@ -347,7 +347,7 @@ void OverviewPage::SetLinks()
     ui->labelLinksUrl1->setText("<a href=\"https://koinmudra.com/\">https://koinmudra.com/</a>");
     ui->labelLinksUrl2->setText("<a href=\"https://koinmudra.com/whitepaper.pdf\">https://koinmudra.com/whitepaper.pdf</a>");
     ui->labelLinksUrl3->setText("<a href=\"https://explorer.koinmudra.com/\">https://explorer.koinmudra.com/</a>");
-    ui->labelLinksUrl4->setText("<a href=\"https://discord.gg/dRSTFBq\">https://discord.gg/xgcHTT7</a>");
+    ui->labelLinksUrl4->setText("<a href=\"https://discord.gg/xgcHTT7\">https://discord.gg/xgcHTT7</a>");
     ui->labelLinksUrl5->setText("<a href=\"https://t.me/KoinMudra\">https://t.me/KoinMudra</a>");
     ui->labelLinksUrl6->setText("<a href=\"https://twitter.com/MudraKoin\">https://twitter.com/MudraKoin</a>");
     ui->labelLinksUrl7->setText("<a href=\"https://github.com/KoinMudra/KMI\">https://github.com/KoinMudra/KMI</a>");
